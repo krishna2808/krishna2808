@@ -2,16 +2,16 @@
 <h2>I am Krishna</h2>
 
 <a href="https://github.com/krishna2808">
-  <img src="https://img.shields.io/badge/-%70krishna-black?style=flat&logo=github"/>
+  <img src="https://img.shields.io/badge/-%krishna-black?style=flat&logo=github"/>
 </a>
 <a href="https://twitter.com/__Krishna_singh">
-  <img src="https://img.shields.io/badge/-%70krishna-black?style=flat&logo=twitter"/>
+  <img src="https://img.shields.io/badge/-%krishna-black?style=flat&logo=twitter"/>
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/@70krishna-black?style=flat&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/@krishna-black?style=flat&logo=linkedin"/>
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/@70krishna-black?style=flat&logo=instagram"/>
+  <img src="https://img.shields.io/badge/@krishna-black?style=flat&logo=instagram"/>
 </a>
 
 #### I am 3rd year Information Technology undergraduate student at Government Engineering College, Modasa. I am Django Developer and Competitive Programmer👩‍💻.
