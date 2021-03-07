@@ -41,5 +41,7 @@
 <img src="http://farsilinux.org/wp-content/uploads/2020/07/release-2020.2-kali-kde-dark-1536x864.png" alt="kali linux " width="40" height="40"/> 
 </p>
 
-#### Competitive Programming Statues
-<a href="https://www.stopstalk.com/user/profile/prince71048"> All status</a>
+### Competitive Programming Statues
+<a href="https://www.stopstalk.com/user/profile/prince71048"> All status</a> <br>
+<a href="https://www.hackerrank.com/__krishna_singh?hr_r=1"> HackerRank <a> <br>
+<a href="https://www.codechef.com/users/prince71048">codechef</a>  
