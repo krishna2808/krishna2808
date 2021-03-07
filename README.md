@@ -30,17 +30,22 @@
 <p align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/python.svg" alt="python" width="40" height="40"/> 
 <img src="https://miro.medium.com/max/700/1*iIXOmGDzrtTJmdwbn7cGMw.png" alt="java" width="40" height="40"/>   
+<img src="https://vmssoftware.com/images/intro/product/php.svg" alt="php" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/javascript.svg" alt="javascript" width="40" height="40"/> 
+  
+<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="46" height="46"/>   
 <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" alt="django" width="50" height="40"/> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/python.svg" alt="python" width="40" height="40"/> 
-<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="46" height="46"/> 
+
+
+
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/html-5.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/css-3.svg" alt="css3" width="40" height="40"/> 
 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/bulma.svg" alt="bulma" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/javascript.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://dbatricksworld.com/wp-content/uploads/2014/04/oracle-11g-logo.png" alt="sql-11g" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/c-plusplus.svg" alt="cplusplus" width="40" height="40"/> 
+<img src="https://dbatricksworld.com/wp-content/uploads/2014/04/oracle-11g-logo.png" alt="sql-11g" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" alt="My-SQL" width="40" height="40"/> 
+
+<img src="http://farsilinux.org/wp-content/uploads/2020/07/release-2020.2-kali-kde-dark-1536x864.png" alt="kali linux " width="40" height="40"/> 
+
 
 </p>
 <a href="https://todi-2000.github.io">
