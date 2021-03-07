@@ -14,12 +14,12 @@
   <img src="https://img.shields.io/badge/@krishna-black?style=flat&logo=instagram"/>
 </a>
 
-#### I am 3rd year Information Technology undergraduate student at JSSATE Noida. I am Django Developer and Competitive Programmer👩‍💻.
+#### I am 3rd year Information Technology undergraduate student at Government Engineering College, Modasa. I am Django Developer and Competitive Programmer👩‍💻.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" width="400px"/>
 
 - 🔭 I’m currently working on **Personal Projects**. 
-- 🌱 I’m currently focusing on **Data structure and Algorithms** and learning **Frontend Development**.
+- 🌱 I’m currently focusing on **Data structure and Algorithms** and learning **Backend and Frontend Development**.
 - 👯 I’d like to collaborate on **Django** based projects.
 - 📫 How to reach me **kk8140631@gmail.com**
 - 💬 Ask me about anything .
