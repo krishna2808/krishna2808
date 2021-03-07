@@ -39,13 +39,7 @@
 <img src="https://dbatricksworld.com/wp-content/uploads/2014/04/oracle-11g-logo.png" alt="sql-11g" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" alt="My-SQL" width="40" height="40"/> 
 <img src="http://farsilinux.org/wp-content/uploads/2020/07/release-2020.2-kali-kde-dark-1536x864.png" alt="kali linux " width="40" height="40"/> 
-
-
 </p>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=todi-2000&count_private=true" align="center"/>
-</a>
-<a href="https://todi-2000.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=todi-2000&layout=compact" align="center"/>
-</a>
 
+#### Competitive Programming Statues
+<a href="https://www.stopstalk.com/user/profile/prince71048"> All status</a>
