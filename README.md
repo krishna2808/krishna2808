@@ -2,10 +2,10 @@
 <h2>I am Krishna</h2>
 
 <a href="https://github.com/krishna2808">
-  <img src="https://img.shields.io/badge/-%krishna-black?style=flat&logo=github"/>
+  <img src="https://img.shields.io/badge/@krishna-black?style=flat&logo=github"/>
 </a>
 <a href="https://twitter.com/__Krishna_singh">
-  <img src="https://img.shields.io/badge/-%krishna-black?style=flat&logo=twitter"/>
+  <img src="https://img.shields.io/badge/@krishna-black?style=flat&logo=twitter"/>
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/@krishna-black?style=flat&logo=linkedin"/>
