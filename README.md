@@ -23,7 +23,7 @@
 - 👯 I’d like to collaborate on  <a href="https://github.com/krishna2808/Django-Projects"> **Django** </a> and <a href="https://github.com/krishna2808/Desktop-Applications">**Desktop Software**</a> based projects.
 - 📫 How to reach me **kk8140631@gmail.com**
 - 💬 Ask me about anything .
-- ⚡ Fun fact: In my free time, you'll find me watching series or standup comedy.
+- ⚡ Fun fact: In my free time, you'll find me watching web series.
 
 <br>
 <h2 align="left">Tech Stack</h2>
@@ -46,4 +46,4 @@
 <a href="#"> <img src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" width="50" height="50"/> <a> 
 <a href="https://www.codechef.com/users/prince71048"><img src="https://miro.medium.com/max/333/1*1W0-bbmt4iiEpp_pPrS0VQ.png" width="50" height="50"/></a>  
   <!--     https://www.hackerrank.com/__krishna_singh?hr_r=1 >
-   <!-- https://www.stopstalk.com/user/profile/prince71048 >
+  <!-- https://www.stopstalk.com/user/profile/prince71048 >
