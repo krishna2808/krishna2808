@@ -41,7 +41,7 @@
 <img src="http://farsilinux.org/wp-content/uploads/2020/07/release-2020.2-kali-kde-dark-1536x864.png" alt="kali linux " width="40" height="40"/> 
 </p>
 
-### Competitive Programming Statues
+### Competitive Programming Status
 <a href="#"> All status</a> <br>
 <a href="#"> <img src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" width="50" height="50"/> <a> 
 <a href="https://www.codechef.com/users/prince71048"><img src="https://miro.medium.com/max/333/1*1W0-bbmt4iiEpp_pPrS0VQ.png" width="50" height="50"/></a>  
