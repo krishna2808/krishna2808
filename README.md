@@ -40,7 +40,7 @@
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" alt="My-SQL" width="40" height="40"/> 
 <img src="https://github.com/krishna2808/practice-resume/blob/main/image/kali.jpeg" alt="kali linux " width="40" height="40"/> 
 </p>
-<br>
+
 ### IDE KNOWLEDGE
 <P>
 <img src="https://raw.githubusercontent.com/krishna2808/practice-resume/main/image/pycharm.jpeg?token=AQK7S62LPP6K2AXTT7BV3X3AKC6QM" alt="pycharm " width="40" height="40"/> 
