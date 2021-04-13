@@ -10,7 +10,7 @@
 <a href="#">
   <img src="https://img.shields.io/badge/@krishna-black?style=flat&logo=linkedin"/>
 </a>
-<a href="#">
+<a href="https://instagram.com/_._._krishna">
   <img src="https://img.shields.io/badge/@krishna-black?style=flat&logo=instagram"/>
 </a>
 
