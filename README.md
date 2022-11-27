@@ -7,14 +7,14 @@
 <a href="https://twitter.com/__Krishna_singh">
   <img src="https://img.shields.io/badge/@krishna-black?style=flat&logo=twitter"/>
 </a>
-<a href="#">
+<a href="https://www.linkedin.com/in/krishna-singh-8b6147209/">
   <img src="https://img.shields.io/badge/@krishna-black?style=flat&logo=linkedin"/>
 </a>
 <a href="https://instagram.com/_._._krishna">
   <img src="https://img.shields.io/badge/@krishna-black?style=flat&logo=instagram"/>
 </a>
 
-#### I am 3rd year Information Technology undergraduate student at Government Engineering College, Modasa. I am Django Developer and Competitive Programmer👩‍💻.
+#### I am Final year Information Technology undergraduate student at Government Engineering College, Modasa. I am Django Developer and Competitive Programmer👩‍💻.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" width="400px"/>
 
