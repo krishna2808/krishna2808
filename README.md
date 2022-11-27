@@ -29,11 +29,11 @@
 <h2 align="left">Tech Stack</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/python.svg" alt="python" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/krishna2808/practice-resume/main/image/java.png?token=AQK7S65NGDIPLOJDXF7VQ5DAKC5XS" alt="java" width="40" height="40"/>   
-<img src="https://raw.githubusercontent.com/krishna2808/practice-resume/main/image/ph%5B.png?token=AQK7S6YTKS4F7MQUTN4MSRTAKC52A" alt="php" width="40" height="40"/>
+  
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/javascript.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/krishna2808/practice-resume/main/image/c.png?token=AQK7S6Y7FUSFN6VRHXSMQ23AKC55A" alt="c" width="46" height="46"/>   
 <img src="https://raw.githubusercontent.com/krishna2808/practice-resume/main/image/django.png?token=AQK7S65EMT5W3BAM2MAXTDDAKC57S" alt="django" width="50" height="40"/> 
+<img src="https://raw.githubusercontent.com/krishna2808/practice-resume/main/image/c.png?token=AQK7S6Y7FUSFN6VRHXSMQ23AKC55A" alt="c" width="46" height="46"/>   
+
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/html-5.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/css-3.svg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/krishna2808/practice-resume/main/image/sql11g%20.jpeg?token=AQK7S635J2BGB2ZNFSUOEOTAKC5T4" alt="sql-11g" width="40" height="40"/>
