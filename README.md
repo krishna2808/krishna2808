@@ -50,8 +50,8 @@
 </P>
 
 ### Competitive Programming Status
-<a href="#"> All status</a> <br>
-<a href="#"> <img src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" width="50" height="50"/> <a> 
+<a href="https://www.stopstalk.com/user/profile/prince71048"> All status</a> <br>
+<a href="https://www.hackerrank.com/krishnak_inextu1?hr_r=1"> <img src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" width="50" height="50"/> <a> 
 <a href="https://www.codechef.com/users/prince71048"><img src="https://miro.medium.com/max/333/1*1W0-bbmt4iiEpp_pPrS0VQ.png" width="50" height="50"/></a>  <br>
  
   <a href="https://todi-2000.github.io">
