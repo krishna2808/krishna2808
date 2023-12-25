@@ -22,7 +22,7 @@ My key strengths are understanding complex requirements and planning tasks effec
 
 I am familiar with basic DevOps concepts such as Docker, Docker-compose and have used AWS as my primary cloud infrastructure. I am proficient in Python, and Javascript. I have experience working with frameworks like Django, DRF, Flask, and FastAPI. 
 
-I also have experience working with various databases, including MySQL, Postgresql, and Mongo DB. I have extensive experience with AWS services such as s3, Lambda, EC2, EBS, RDS, IAM, VPC, 
+I also have experience working with various databases, including MySQL, Postgresql. I have extensive experience with AWS services such as s3, Lambda, EC2, EBS, RDS, IAM, VPC, 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" width="400px"/>
 
